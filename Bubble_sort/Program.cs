@@ -1,4 +1,5 @@
-﻿int[] array = new int[] { 10, 30, 400, 20, 50, 70, 1 };
+﻿
+int[] array = new int[] { 170, 30, 400, 20, 50, 70, 1 };
 var str = string.Join(" ", array);
 
 int size = 6,
@@ -9,7 +10,7 @@ int size = 6,
 
 while (indexMax > indexMin)
 {
-    while (indexMin < indexMax)
+    while (indexMax > indexMin)
     {
         if (array[indexMin] > array[index2])
         {
