@@ -1,5 +1,4 @@
-﻿
-int[] array = new int[] { 170, 30, 400, 20, 50, 70, 1 };
+﻿int[] array = new int[] { 170, 30, 400, 20, 50, 70, 1 };
 var str = string.Join(" ", array);
 
 int size = 6,
