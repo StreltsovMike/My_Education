@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\bin\Debug\net6.0\Sum_between_ min_max.exe
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\bin\Debug\net6.0\Sum_between_ min_max.deps.json
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\bin\Debug\net6.0\Sum_between_ min_max.runtimeconfig.json
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\bin\Debug\net6.0\Sum_between_ min_max.dll
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\bin\Debug\net6.0\Sum_between_ min_max.pdb
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.AssemblyInfo.cs
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.dll
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\refint\Sum_between_ min_max.dll
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.pdb
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\Sum_between_ min_max.genruntimeconfig.cache
+D:\GeekBrains\C#\My_Education\Sum_between_ min_max\obj\Debug\net6.0\ref\Sum_between_ min_max.dll
