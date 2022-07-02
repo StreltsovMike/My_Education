@@ -1,13 +1,13 @@
 ﻿int[] array = new int[] { 170, 30, 400, 20, 50, 70, 1 };
 var str = string.Join(" ", array);
 
- Console.WriteLine(str);
+Console.WriteLine(str);
 
-int size = 6,
+int size = array.Length - 1,
     indexMax = size,
     index = 0,
-    Max=0,
-    max=0,
+    Max = 0,
+    max = 0,
     X;
 
 while (indexMax > 0)
@@ -22,16 +22,16 @@ while (indexMax > 0)
         }
         index++;
     }
-    X=array[indexMax];
-    array[indexMax]=array[Max];
-    array[Max]=X;
-    indexMax-=1;
+    X = array[indexMax];
+    array[indexMax] = array[Max];
+    array[Max] = X;
+    indexMax -= 1;
 
     str = string.Join(" ", array);
     Console.WriteLine(str);
-    size-=1;
-    max=0;
-    index=0;
+    size -= 1;
+    max = 0;
+    index = 0;
 }
 
 

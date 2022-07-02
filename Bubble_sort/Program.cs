@@ -1,7 +1,7 @@
 ﻿int[] array = new int[] { 170, 30, 400, 20, 50, 70, 1 };
 var str = string.Join(" ", array);
 
-int size = 6,
+int size = array.Length - 1,
     indexMax = size,
     indexMin = 0,
     index2 = 1,
